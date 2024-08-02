@@ -3,3 +3,5 @@
 /.idea/
 /.pytest_cache/
 /.mypy_cache/
+/deep-learning/aclimdb
+/deep-learning/aclimdb_v1.tar.gz
